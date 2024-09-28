@@ -1,0 +1,1 @@
+{"newPlayer":{"name":"Magiczna"},"bestPlayer":{"name":"Meska","level":"3070"},"playerCount":"371","accountCount":"264","guildCount":"4"}

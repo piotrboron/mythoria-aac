@@ -1,0 +1,1 @@
+[{"id":"22","text":"30 different items have been added to the fishing chests and mythical stone chests. More randomness is coming.\r\n","time":"1702669230","report_id":"0","status":"35"},{"id":"20","text":"Server start on December 16 at 21:00 UTC+1.","time":"1702562571","report_id":"0","status":"35"}]
