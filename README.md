@@ -1,25 +1,13 @@
-# Telara Layout Theme for ZnoteAAC
-
-### Development
-- Finished ![Hopstarter-Rounded-Square-Button-Ok](https://user-images.githubusercontent.com/89811188/133524779-24574036-77dd-4a81-b579-8c9c0a6db52e.png)
-
-### Live Preview
-
-- [LIVE Preview](https://lepiigortv.com/github_websites/telara)
-
-- Official Website: https://lepiigortv.com/
-- Forum: https://opengamescommunity.com
+# [outdated] AAC for Mythoria based on Telara ZNote AAC layout
 
 ### How to Install ?
 
-- Drag and drop all files inside of htdocs/www folder.
-
-![2](https://user-images.githubusercontent.com/89811188/133596538-83fe6c04-20c6-46a0-a303-b0500b763fe8.png)
-
+clone repo and put it to your /publichtml folder
+import schema from /engine/database
+edit the config file in root dir
 
 ### Credits
 
 - Engine: ZnoteAAC
-- Code & Design: Gunz & Michal
+- Code & Design: Gunz & Michal, rosesandsins
 - Modified and converted by Alex45
-# mythoria-aac
